@@ -1,3 +1,5 @@
+'use strict';
+
 // header의 search부분 클릭시 발생
 const searchEl=document.querySelector(".search");
 const searchInputEl=searchEl.querySelector("input");

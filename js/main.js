@@ -1,3 +1,4 @@
+'use strict';
 
 // header의 badges 브라우저 창 스크롤시 사라지기
 const badgeEl=document.querySelector('header .badges');
